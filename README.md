@@ -36,4 +36,3 @@ MetaQ的淘宝版本已经发展到2.0乃至3.0版本，设计原则发生了变
 #更多
 
 参见[wiki](https://github.com/killme2008/Metamorphosis/wiki)。
-1234
